@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MythicalDoggo
+- 👀 I’m interested in learning php/c#/MySQL
+- 🌱 I’m currently learning php
+- 📫 You can reach me on discord: https://discordapp.com/users/852910297245286411
