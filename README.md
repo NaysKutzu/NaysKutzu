@@ -14,8 +14,6 @@ I am a Full Stack Developer from `Restia Romaina` but now in `Ausitra Graz`.
 
 - :mailbox: How to reach me: DM on discord, ```NaysKutzu#5375```
 
-- :job: I am looking for paid work. Please DM if you consider hiring me. ```NaysKutzu#5375```
-
 ---
 
 - I am not new to GitHub, my old github [account](https://github.com/ItzKoolKid96)
