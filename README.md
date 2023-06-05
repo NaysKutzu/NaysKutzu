@@ -38,6 +38,7 @@ I am a Full Stack Developer from `Restia Romaina` but now in `Ausitra Graz`.
 ---
 
 ### :fire: My Stats :
+[![Discord Presence](https://lanyard.cnrad.dev/api/852910297245286411)](https://discord.com/users/852910297245286411)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NaysKutzu&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaysKutzu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
