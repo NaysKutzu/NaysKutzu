@@ -6,7 +6,7 @@
 
 ### :technologist: About Me :
 
-I am a Full Stack Developer from `Resita Romaina` but now I am in `Austira Graz`.
+I am a Full Stack Developer from `Resita Romania` but now I am in `Austria Graz`.
 
 - :telescope: I work at MythicalSystems, AtoroTech as a developer.
 
