@@ -1,43 +1,48 @@
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/eYilisUwipOEM/giphy.gif?cid=ecf05e4770nvu6kwh3k7dka6lkbrbgwiq4d64hmrj46zs42f&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
-</div>
+<h1 align="center">Hi 👋, I'm NaysKutzu</h1>
+<h3 align="center">A passionate backend developer from Romania</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayskutzu&label=Profile%20views&color=0e75b6&style=flat" alt="nayskutzu" /> </p>
 
-### :technologist: About Me :
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayskutzu" alt="nayskutzu" /></a> </p>
 
-I am a Full Stack Developer from `Resita Romania` but now I am in `Austria Graz`.
+- 🔭 I’m currently working on [KosmaPanel](https://github.com/MythicalLTD/KosmaPanel)
 
-- :telescope: I work at MythicalSystems, AtoroTech as a developer.
+- 🌱 I’m currently learning **Javascript, Python**
 
-- :zap: I like contibuting to OpenSource Repos and helping others.
+- 👯 I’m looking to collaborate on [Pterodactyl](https://github.com/pterodactyl/panel)
 
-- :mailbox: How to reach me: DM on discord, ```NaysKutzu#5375```
+- 🤝 I’m looking for help with [Pterodactyl Desktop](https://github.com/mythicalltd/pterodactyl-desktop)
 
----
+- 👨‍💻 All of my projects are available at [https://bento.me/nayskutzu](https://bento.me/nayskutzu)
 
-- I am not new to GitHub, my old github [account](https://github.com/ItzKoolKid96)
+- 📝 I regularly write articles on [https://docs.mythicalsystems.me](https://docs.mythicalsystems.me)
 
----
-### :hammer_and_wrench: Languages and Tools :
+- 💬 Ask me about **C#, PhP, SQL**
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" alt="oracle" width="40" height="40"/>&nbsp;
-</div>
+- 📫 How to reach me **Discord: nayskutzu**
 
----
+- 📄 Know about my experiences [https://bento.me/nayskutzu](https://bento.me/nayskutzu)
 
-### :fire: My Stats :
-[![Discord Presence](https://lanyard.cnrad.dev/api/852910297245286411)](https://discord.com/users/852910297245286411)
+- ⚡ Fun fact **I think I'm funny**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NaysKutzu&theme=dark&background=000000)](https://git.io/streak-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/nayskutzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nayskutzu" height="30" width="40" /></a>
+<a href="https://twitter.com/nayskutzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nayskutzu" height="30" width="40" /></a>
+<a href="https://instagram.com/mythicaldoggo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mythicaldoggo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nayskutzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nayskutzu" height="30" width="40" /></a>
+<a href="https://discord.gg/eWUYVEZVxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eWUYVEZVxz" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/nayskutzu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nayskutzu" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayskutzu&show_icons=true&locale=en&layout=compact" alt="nayskutzu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayskutzu&show_icons=true&locale=en" alt="nayskutzu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayskutzu&" alt="nayskutzu" /></p>
+<p><img align="center" src="https://lanyard.cnrad.dev/api/852910297245286411" alt="nayskutzu" /></p>
