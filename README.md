@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm NaysKutzu</h1>
-<h3 align="center">A passionate backend developer from Romania</h3>
+<h1 align="center">Hi 👋, I'm Cassian Gherman (NaysKutzu)</h1>
+<h3 align="center">A passionate 15 years old backend developer from Romania but currently in Austria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayskutzu&label=Profile%20views&color=0e75b6&style=flat" alt="nayskutzu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayskutzu" alt="nayskutzu" /></a> </p>
-
-- 🔭 I’m currently working on [KosmaPanel](https://github.com/MythicalLTD/KosmaPanel)
+- 🔭 I’m currently working on [KosmaPanel](https://github.com/MythicalLTD/KosmaPanel), [Pterodactyl Desktop](https://github.com/mythicalltd/pterodactyl-desktop)
 
 - 🌱 I’m currently learning **Javascript, Python**
 
 - 👯 I’m looking to collaborate on [Pterodactyl](https://github.com/pterodactyl/panel)
 
-- 🤝 I’m looking for help with [Pterodactyl Desktop](https://github.com/mythicalltd/pterodactyl-desktop)
+- 🤝 I’m looking for help with [Pterodactyl Desktop](https://github.com/mythicalltd/pterodactyl-desktop), [KosmaPanel](https://github.com/mythicalltd/kosmapanel)
 
-- 👨‍💻 All of my projects are available at [https://bento.me/nayskutzu](https://bento.me/nayskutzu)
+- 👨‍💻 All of my projects are available at [MythicalSystems](https://github.com/mythicalltd)
 
 - 📝 I regularly write articles on [https://docs.mythicalsystems.me](https://docs.mythicalsystems.me)
 
@@ -21,9 +19,11 @@
 
 - 📫 How to reach me **Discord: nayskutzu**
 
-- 📄 Know about my experiences [https://bento.me/nayskutzu](https://bento.me/nayskutzu)
+- 📄 Know more about me [https://bento.me/nayskutzu](https://bento.me/nayskutzu)
 
 - ⚡ Fun fact **I think I'm funny**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayskutzu" alt="nayskutzu" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
