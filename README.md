@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **C#, PhP, SQL**
 
-- 📫 How to reach me **Discord: nayskutzu**
+- 📫 How to reach me **Discord: mythicaldoggo**
 
 - 📄 Know more about me [https://bento.me/nayskutzu](https://bento.me/nayskutzu)
 
@@ -31,7 +31,7 @@
 <a href="https://twitter.com/nayskutzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nayskutzu" height="30" width="40" /></a>
 <a href="https://instagram.com/mythicaldoggo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mythicaldoggo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nayskutzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nayskutzu" height="30" width="40" /></a>
-<a href="https://discord.gg/eWUYVEZVxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eWUYVEZVxz" height="30" width="40" /></a>
+<a href="https://discord.gg/3FWyugpznc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eWUYVEZVxz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
