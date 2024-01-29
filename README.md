@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayskutzu&label=Profile%20views&color=0e75b6&style=flat" alt="nayskutzu" /> </p>
 
-- 🔭 I’m currently working on [KosmaPanel](https://github.com/MythicalLTD/KosmaPanel), [Pterodactyl Desktop](https://github.com/mythicalltd/pterodactyl-desktop)
+- 🔭 I’m currently working on [MythicalClient](https://github.com/mythicalltd/mythicalclient), [Pterodactyl Desktop](https://github.com/mythicalltd/pterodactyl-desktop)
 
 - 🌱 I’m currently learning **Javascript, Python**
 
 - 👯 I’m looking to collaborate on [Pterodactyl](https://github.com/pterodactyl/panel)
 
-- 🤝 I’m looking for help with [Pterodactyl Desktop](https://github.com/mythicalltd/pterodactyl-desktop), [KosmaPanel](https://github.com/mythicalltd/kosmapanel)
+- 🤝 I’m looking for help with [MythicalClient](https://github.com/mythicalltd/mythicalclient), [Pterodactyl Desktop](https://github.com/mythicalltd/pterodactyl-desktop), [KosmaPanel](https://github.com/mythicalltd/kosmapanel),[MythicalDash](https://github.com/mythicalltd/mythicaldash)
 
 - 👨‍💻 All of my projects are available at [MythicalSystems](https://github.com/mythicalltd)
 
