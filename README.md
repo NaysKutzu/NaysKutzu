@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cassian Gherman (NaysKutzu)</h1>
+<h1 align="center">Hi 👋, I'm Cassian (NaysKutzu)</h1>
 <h3 align="center">A passionate 16 years old backend developer from Romania but currently in Austria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayskutzu&label=Profile%20views&color=0e75b6&style=flat" alt="nayskutzu" /> </p>
