@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Cassian Gherman (NaysKutzu)</h1>
-<h3 align="center">A passionate 15 years old backend developer from Romania but currently in Austria.</h3>
+<h3 align="center">A passionate 16 years old backend developer from Romania but currently in Austria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayskutzu&label=Profile%20views&color=0e75b6&style=flat" alt="nayskutzu" /> </p>
 
-- 🔭 I’m currently working on [MythicalClient](https://github.com/mythicalltd/mythicalclient), [Pterodactyl Desktop](https://github.com/mythicalltd/pterodactyl-desktop)
+- 🔭 I’m currently working on [MythicalDash](https://github.com/mythicalltd/mythicaldash), [Pterodactyl Desktop](https://github.com/mythicalltd/pterodactyl-desktop)
 
-- 🌱 I’m currently learning **Javascript, Python**
+- 🌱 I’m currently learning **Rust, Go**
 
-- 👯 I’m looking to collaborate on [Pterodactyl](https://github.com/pterodactyl/panel)
+- 👯 I’m looking to collaborate on [Pterodactyl](https://github.com/pelican-dev/panel)
 
-- 🤝 I’m looking for help with [MythicalClient](https://github.com/mythicalltd/mythicalclient), [Pterodactyl Desktop](https://github.com/mythicalltd/pterodactyl-desktop), [KosmaPanel](https://github.com/mythicalltd/kosmapanel),[MythicalDash](https://github.com/mythicalltd/mythicaldash)
+- 🤝 I’m looking for help with [MythicalClient](https://github.com/mythicalltd/mythicalclient), [Pterodactyl Desktop](https://github.com/mythicalltd/pterodactyl-desktop), [MythicalDash](https://github.com/mythicalltd/mythicaldash)
 
 - 👨‍💻 All of my projects are available at [MythicalSystems](https://github.com/mythicalltd)
 
@@ -31,7 +31,7 @@
 <a href="https://twitter.com/nayskutzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nayskutzu" height="30" width="40" /></a>
 <a href="https://instagram.com/mythicaldoggo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mythicaldoggo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nayskutzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nayskutzu" height="30" width="40" /></a>
-<a href="https://discord.gg/3FWyugpznc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eWUYVEZVxz" height="30" width="40" /></a>
+<a href="https://discord.mythicalsystems.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eWUYVEZVxz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
