@@ -42,5 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayskutzu&show_icons=true&locale=en" alt="nayskutzu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayskutzu&" alt="nayskutzu" /></p>
-<p><img align="center" src="https://lanyard.cnrad.dev/api/852910297245286411" alt="nayskutzu" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NaysKutzu&theme=dark&hide_border=true&border_radius=4.2&short_numbers=true" alt="GitHub Streak" /></a><p><img align="center" src="https://lanyard.cnrad.dev/api/852910297245286411" alt="nayskutzu" /></p>
