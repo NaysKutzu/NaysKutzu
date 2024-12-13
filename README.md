@@ -39,4 +39,4 @@
 <p><a href="https://ko-fi.com/nayskutzu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nayskutzu" /></a></p><br><br>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=NaysKutzu&theme=dark&hide_border=true&border_radius=4.2&short_numbers=true" alt="GitHub Streak" />
-[![Discord Presence](https://lanyard.cnrad.dev/api/964966303385387108?theme=dark&showDisplayName=true&hideClan=true)](https://discord.com/users/964966303385387108)
+<a href="https://discord.com/users/964966303385387108"><img src="https://lanyard.cnrad.dev/api/964966303385387108?theme=dark&showDisplayName=true&hideClan=true" /></a>
