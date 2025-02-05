@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [MythicalSystems](https://github.com/mythicalltd)
 
-- 📝 I regularly write articles on [https://docs.mythicalsystems.me](https://docs.mythicalsystems.me)
-
 - 💬 Ask me about **C#, PhP, SQL**
 
 - 📫 How to reach me **Discord: mythicaldoggo**
