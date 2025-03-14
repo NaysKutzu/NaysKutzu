@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cassian (NaysKutzu)</h1>
-<h3 align="center">A passionate 16 years old backend developer from Romania but currently in Austria.</h3>
+<h3 align="center">A passionate 17 years old full stack developer from Romania but currently in Austria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayskutzu&label=Profile%20views&color=0e75b6&style=flat" alt="nayskutzu" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [MythicalSystems](https://github.com/mythicalltd)
 
-- 💬 Ask me about **C#, PhP, SQL**
+- 💬 Ask me about **C#, PhP, SQL, Java**
 
 - 📫 How to reach me **Discord: mythicaldoggo**
 
@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://www.instagram.com/nayskutzu.official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mythicaldoggo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nayskutzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nayskutzu" height="30" width="40" /></a>
-<a href="https://discord.mythicalsystems.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eWUYVEZVxz" height="30" width="40" /></a>
+<a href="https://discord.mythical.systems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eWUYVEZVxz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
