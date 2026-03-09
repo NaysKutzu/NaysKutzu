@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cassian (NaysKutzu)</h1>
-<h3 align="center">A passionate 17 years old full stack developer from Romania but currently in Austria.</h3>
+<h3 align="center">A passionate 18 years old full stack developer from Romania but currently in Austria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayskutzu&label=Profile%20views&color=0e75b6&style=flat" alt="nayskutzu" /> </p>
 
 - 🔭 I’m currently working on [MythicalDash](https://github.com/mythicalltd/mythicaldash), [FeatherPanel](https://github.com/mythicalltd/featherpanel)
 
 - 🌱 I’m currently learning **Go**
-
-- 👯 I’m looking to collaborate on [Pterodactyl](https://github.com/pelican-dev/panel)
 
 - 🤝 I’m looking for help with [MythicalDash](https://github.com/mythicalltd/mythicaldash), [FeatherPanel](https://github.com/mythicalltd/featherpanel)
 
